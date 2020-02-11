@@ -1,0 +1,5 @@
+Apollo Pharmacy,No 62, Central Cinema Complex, PH Road, P.H. Road, Bodinayakanur, Tamil Nadu 625513, India|10.00819,77.35249
+Apollo Pharmacy,438, Ground Floor, Periyakulam - Cumbum Rd, opposite Holy Redmeer Convent Hospital, Kottai Kalam, Theni, Tamil Nadu 625531, India|10.0196172,77.47986139999999
+Apollo Pharmacy,No 133, Sekkalai Rd, Sekkalai, Kalanivasal, Tamil Nadu 630313, India|10.0795468,78.77579229999999
+Apollo Pharmacy,80, Nir Road, 18, Periyakulam - Cumbum Rd, Thenkarai, Tamil Nadu 625601, India|10.1204437,77.5430109
+Apollo Pharmacy,No 87/1, Pudukkottai Rd, near Canara Bank, Aranthangi, Tamil Nadu 614616, India|10.1712033,78.9907899
